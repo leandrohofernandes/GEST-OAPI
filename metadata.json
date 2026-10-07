@@ -1,0 +1,6 @@
+{
+  "name": "Gestão API",
+  "description": "Gestão API — Console analítico e painel de gestão para acompanhamento de vendas, aquisição, esteira de produtos, mentoria e métricas financeiras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
